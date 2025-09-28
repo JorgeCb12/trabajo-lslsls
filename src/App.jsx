@@ -1,10 +1,9 @@
-import Hero from './components/Hero'
-import './styles/globals.css'
+import Home from './pages/Home'
 
 function App() {
   return (
     <>
-      <Hero />
+      <Home />
     </>
   )
 }

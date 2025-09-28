@@ -1,0 +1,12 @@
+.about {
+  background-color: #b95f5f;
+}
+
+.about__title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.about__subtitle {
+  font-size: 1.2rem;
+}
